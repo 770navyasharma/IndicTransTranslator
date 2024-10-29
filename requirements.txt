@@ -4,3 +4,5 @@ torch
 transformers
 SpeechRecognition
 gTTS
+indic-nlp-library   
+sacremoses          
