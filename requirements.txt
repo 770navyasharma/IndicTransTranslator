@@ -7,3 +7,4 @@ gTTS
 indic-nlp-library   
 sacremoses          
 sentencepiece
+pyaudio
